@@ -1,10 +1,10 @@
-# Video Games Sales
+# Video Game Sales Analysis
 Project to analyze and discover insights of video game sales in recent years.
 
 ![VG Sales Grouped by Publisher](https://raw.githubusercontent.com/ansegura7/DataAnalysis_VideoGames/master/images/sales-grouped-by-publisher.PNG)
 
 ## Data Analysis
-Please, click on the link <a href="https://ansegura7.github.io/DataAnalysis_VideoGames/pages/VideoGames.html" >DataViz</a>.
+Please, click on the link <a href="https://ansegura7.github.io/DataAnalysis_VideoGames/pages/VideoGameSales.html" >DataViz</a>.
 
 ## Data
 This dataset contains a list of video games with sales greater than 100,000 copies. Original data from <a href="https://www.kaggle.com/gregorut/videogamesales" target="_blank" >Kaggle</a>.
