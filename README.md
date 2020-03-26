@@ -27,8 +27,12 @@ Fields include:
 - The best-selling game is **Wii Sports** with approximately 80M copies. Also, the best-selling video game company is **Nintendo**.
 - The 4 platforms that have contributed the most to video game sales are: PS2, PS3, X360 and Wii, closely followed by Nintendo DS and PS.
 - As of 2013, the majority of video games sold were of the genres: Action, Role-Playing (RPG) and Adventure, closely followed by the genres: Sports and Shooter.
-- Regarding the platforms that sold the most video games as of 2013, PlayStation (PS3, PS4 and PSV) is the clear winner, contributing approximately 40% of video games sold.
+- Regarding the platforms that sold the most video games as of 2013, **PlayStation** (PS3, PS4 and PSV) is the clear winner, contributing approximately 40% of video games sold.
 - The participation of games by gender is practically distributed uniformly by platform.
+- Finally, how the video game genre trend has changed in each decade:
+  - In the 1980s Platform games were the most played, with 32.5%, now they only represent 4.79%.
+  - Instead, the Action genre is the most famous now with a 26.7% share.
+  - The 1990s was one of the most balanced, where RPG games had more prominence (12.1%).
 
 ## Python Dependencies
 ``` python
