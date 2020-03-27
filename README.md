@@ -1,10 +1,18 @@
 # Video Game Sales Analysis
-Project to analyze and discover insights of video game sales in recent years, with the high-level API <a href="https://plotly.com/python/plotly-express/" target="_blank" >plotly.express</a>.
+Visual Analytics project to analyze and discovery insights of video game sales in recent years, with the high-level API <a href="https://plotly.com/python/plotly-express/" target="_blank" >plotly.express</a>.
 
-![VG Sales Grouped by Publisher](https://raw.githubusercontent.com/ansegura7/DataAnalysis_VideoGames/master/images/sales-grouped-by-publisher.PNG)
+![VG Sales Grouped by Publisher](https://raw.githubusercontent.com/ansegura7/DataViz_VideoGameSales/master/images/sales-grouped-by-publisher.PNG)
 
 ## Data Analysis
-To view the data analysis, click on the <a href="https://ansegura7.github.io/DataAnalysis_VideoGames/pages/VideoGameSales.html" >DataViz</a> link.
+1. Video Games Sales per Year
+2. Top 50 best-selling video games
+3. Video Game Sales grouped by Platform
+4. Video Game Sales grouped by Publisher
+5. Sales Trends of Top 10 Publishers
+6. Distribution of Video Game Sales
+7. Evolution of Video Game sales by Genre
+
+To view the data analysis, click on the <a href="https://ansegura7.github.io/DataViz_VideoGameSales/pages/VideoGameSales.html" >DataViz</a> link.
 
 ## Data
 This dataset contains a list of video games with sales greater than 100,000 copies. Original data from <a href="https://www.kaggle.com/gregorut/videogamesales" target="_blank" >Kaggle</a>.
