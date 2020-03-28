@@ -1,4 +1,4 @@
-# Video Game Sales Analysis
+# Video Game Sales DataViz
 The video game industry is expected to be worth more than $ 90 billion by 2020 (BestTheNews, 2016). Therefore, it would be worth analyzing some statistics on the video game sales by platform and genre.
 
 ![VG Sales Grouped by Publisher](https://raw.githubusercontent.com/ansegura7/DataViz_VideoGameSales/master/images/sales-grouped-by-publisher.PNG)
@@ -30,6 +30,7 @@ Fields include:
 ## Insights
 - The release year with the subsequent highest sales of video games was **2008**. Keep in mind that for many of the games released later, sales have not been reported or are still selling.
 - The best-selling game is **Wii Sports** with approximately 80M copies. Also, the best-selling video game company is **Nintendo**.
+- The second best-selling game is **GTA V**, on 3 different platforms: PS3, PS4, Xbox 360.
 - The 4 platforms that have contributed the most to video game sales are: PS2, PS3, X360 and Wii, closely followed by Nintendo DS and PS.
 - As of 2013, the majority of video games sold were of the genres: Action, Role-Playing (RPG) and Adventure, closely followed by the genres: Sports and Shooter.
 - Regarding the platforms that sold the most video games as of 2013, **PlayStation** (PS3, PS4 and PSV) is the clear winner, contributing approximately 40% of video games sold.
