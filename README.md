@@ -1,7 +1,7 @@
 # Video Game Sales DataViz
 Visual Analytics project to analyze and discovery insights of video game sales in recent years, with the high-level API <a href="https://plotly.com/python/plotly-express/" target="_blank" >plotly.express</a>.
 
-**Motivation:** the video game industry is expected to be worth more than $ 90 billion by 2020 (BestTheNews, 2016). Therefore, it would be worth analyzing some statistics on the video game sales by platform and genre.
+**Motivation:** the video game industry is expected to be worth more than $ 90 billion by 2020 (BestTheNews, 2016). Therefore, It would be worthwhile to analyze some facts about video game sales by platform and genre in the last 4 decades.
 
 ![VG Sales Grouped by Publisher](https://raw.githubusercontent.com/ansegura7/DataViz_VideoGameSales/master/images/sales-grouped-by-publisher.PNG)
 
