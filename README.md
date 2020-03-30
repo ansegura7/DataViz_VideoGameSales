@@ -40,7 +40,7 @@ Fields include:
 - Finally, how the video game genre trend has changed in each decade:
   - In the 1980s, **Platform** games were the most played, with 32.5%, now (in the 2010s) they only represent 4.86%.
   - Instead, the **Action** genre is the most famous now with a 25.4% share.
-  - The 1990s was one of the most balanced, where **RPG** games had more prominence (12.1%).
+  - The 1990s was one of the most balanced, where **RPG** games had more prominence (12.1%) and Platform games began to decline.
   - In the 2000s it was when **eSport** games had their biggest boom, representing 17.6% of the gaming market.
 
 ## Python Dependencies
