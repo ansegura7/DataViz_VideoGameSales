@@ -14,7 +14,7 @@ Visual Analytics project to analyze and discovery insights of video game sales i
 6. Distribution of video game sales
 7. Evolution of video game sales by genre
 
-To view the <a href="https://ansegura7.github.io/DataViz_VideoGameSales/pages/VideoGameSales.html" style="font-size:13pt;">DataViz</a>, click on the link.
+To view the <a href="https://ansegura7.github.io/DataViz_VideoGameSales/pages/VideoGameSales.html" style="font-size:14pt;">DataViz</a>, click on the link.
 
 ## Data
 This dataset contains a list of video games with sales greater than 100,000 copies. Original data from <a href="https://www.kaggle.com/gregorut/videogamesales" target="_blank" >Kaggle</a>.
