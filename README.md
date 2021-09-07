@@ -1,7 +1,7 @@
 # Video Game Sales DataViz
 Visual Analytics project to analyze and discovery insights of video game sales in recent years, with the high-level API <a href="https://plotly.com/python/plotly-express/" target="_blank" >plotly.express</a>.
 
-**Motivation:** the video game industry is expected to be worth more than $ 90 billion by 2020 (BestTheNews, 2016). Therefore, It would be worthwhile to analyze some facts about video game sales by platform and genre in the last 4 decades.
+**Motivation:** the video game industry currently (2021) has more than 3 billion active players and its market is worth more than $170 billion (<a href="https://www.wepc.com/news/video-game-statistics/" target="_blank">BestTheNews</a>). Therefore, it is worth analyzing some data on video game sales by platform and genre over the last 4 decades.
 
 ![VG Sales Grouped by Publisher](https://raw.githubusercontent.com/ansegura7/DataViz_VideoGameSales/master/images/sales-grouped-by-publisher.PNG)
 
@@ -54,6 +54,7 @@ Any kind of feedback/criticism would be greatly appreciated (algorithm design, d
 ## Author
 - Created by Andrés Segura Tinoco
 - Created on Mar 17, 2020
+- Updated on Sep 07, 2021
 
 ## License
-This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the <a href="https://github.com/ansegura7/DataViz_VideoGameSales/blob/master/LICENSE">MIT license</a>.
